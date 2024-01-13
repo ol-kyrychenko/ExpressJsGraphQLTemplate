@@ -1,4 +1,4 @@
-# ExpressJsLab4Template
+# ExpressJsGraphQLTemplate
 
 ## Initial Machine Setup
 
